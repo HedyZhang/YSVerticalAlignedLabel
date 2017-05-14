@@ -3,7 +3,7 @@
 //  CreditWallet
 //
 //  Created by zhanghaidi on 2017/4/10.
-//  Copyright © 2017年 QuantGroup. All rights reserved.
+//  Copyright © 2017年 yanshu. All rights reserved.
 //
 
 #import "QGVerticalAlignedLabel.h"
